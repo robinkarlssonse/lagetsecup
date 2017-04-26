@@ -1,0 +1,782 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"c",
+				"contain"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"padin",
+				"padding-left"
+			],
+			[
+				"wra",
+				"word-wrap"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"the_",
+				"the_permalink"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"Pop",
+				"PopWarner"
+			],
+			[
+				"the_T",
+				"the_title"
+			],
+			[
+				"camps",
+				"campshortcode"
+			],
+			[
+				"get_template",
+				"get_template_directory_uri"
+			],
+			[
+				"boxs",
+				"box-shadow"
+			],
+			[
+				"l",
+				"larger"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"st",
+				"list-style-type"
+			],
+			[
+				"have_",
+				"have_posts"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"ti",
+				"title	Tag"
+			],
+			[
+				"register_na",
+				"register_nav_menus"
+			],
+			[
+				"wp_nav",
+				"wp_nav_menu"
+			],
+			[
+				"get_Sty",
+				"get_stylesheet_uri"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_style"
+			],
+			[
+				"the",
+				"the_date"
+			],
+			[
+				"lang",
+				"language_attributes"
+			],
+			[
+				"the_p",
+				"the_post"
+			],
+			[
+				"have",
+				"have_posts"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"get_the_t",
+				"get_the_title"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"get_post_c",
+				"get_post_custom"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"the_t",
+				"the_title"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wp_t",
+				"wp_title"
+			],
+			[
+				"body",
+				"body_class"
+			],
+			[
+				"wp",
+				"wp_head"
+			],
+			[
+				"get_foot",
+				"get_footer"
+			],
+			[
+				"get_head",
+				"get_header"
+			],
+			[
+				"get_h",
+				"get_header"
+			],
+			[
+				"wp_",
+				"wp_footer"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"graphicon",
+				"graphicon_four_enqueue_scripts"
+			],
+			[
+				"wpe",
+				"wp_enqueue_scripts"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"b",
+				"baseline"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"lie",
+				"letter-spacing"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"gette",
+				"get_template_directory_uri"
+			],
+			[
+				"mitt_tema_",
+				"mitt_tema_custom_posttypes"
+			],
+			[
+				"mitt",
+				"mitt_tema_excerpt_length"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"com",
+				"company"
+			],
+			[
+				"my",
+				"myH1"
+			],
+			[
+				"m",
+				"myDiv"
+			],
+			[
+				"par",
+				"param2"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"myL",
+				"myLocalVar"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 23,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: WordPress File Header"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xamppnew/htdocs/lagetsecup"
+	],
+	"file_history":
+	[
+		"/C/xamppnew/htdocs/lagetsecup/index.php",
+		"/C/xamppnew/htdocs/lagetsecup/README",
+		"/C/xampp/htdocs/wie15_php/20160218routing/index.php",
+		"/C/xampp/htdocs/wie15_php/20160218routing/templates/parts/product-list-item.php",
+		"/C/xampp/htdocs/wie15_php/20160218routing/templates/header.php",
+		"/C/xampp/htdocs/wie15_php/20160218routing/templates/product-list-view.php",
+		"/C/xampp/htdocs/wie15_php/20160218routing/includes/settings.php",
+		"/C/xampp/htdocs/wie15_php/20160218routing/includes/dbconn.php",
+		"/C/xampp/htdocs/wie15_php/20160218routing/classes/Product_class.php",
+		"/C/xampp/htdocs/wie15_php/20160218routing/controlers/product-list.php",
+		"/C/xampp/htdocs/wie15_php/20160218routing/controlers/single-products.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/graphicon/header.php",
+		"/C/xamppnew/htdocs/wp-jlc/footer-distributed-with-contact-form.html",
+		"/C/xamppnew/htdocs/wp-jlc/previousnextwordpress.php",
+		"/C/Users/Robin/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/Robin/AppData/Local/Temp/fz3temp-2/general.css",
+		"/C/Users/Robin/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/xamppnew/htdocs/sthlmcontemporarydesigns/wordpress/wp-content/themes/graphicon-four/index.php",
+		"/C/Users/Robin/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/xamppnew/htdocs/wp-jlc/index.php",
+		"/C/xamppnew/htdocs/wp-dogtajm/preprod/index.php",
+		"/C/xamppnew/htdocs/wp-dogtajm/preprod/js/script.js",
+		"/C/xamppnew/htdocs/wp-dogtajm/preprod/css/general.css",
+		"/C/xamppnew/htdocs/wp-dogtajm/preprod/css/media.css",
+		"/C/xamppnew/htdocs/wp-robinkarlsson/cv-robinkarlsson/Gauge_CSS-gh-pages/Gauge_CSS-gh-pages/css.css",
+		"/C/xamppnew/htdocs/wp-robinkarlsson/cv-robinkarlsson/Gauge_CSS-gh-pages/Gauge_CSS-gh-pages/index.html",
+		"/C/xamppnew/htdocs/wp-jamielynns/wp-content/themes/graphiconseven/style.css",
+		"/C/xamppnew/phpMyAdmin/index.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/index.php",
+		"/C/xamppnew/htdocs/wp-elitehockeyagility/wp-content/themes/graphicontwo/index.php",
+		"/C/xamppnew/phpMyAdmin/config.inc.php",
+		"/C/xamppnew/mysql/bin/my.ini",
+		"/C/xamppnew/php/php.ini",
+		"/C/xamppnew/apache/conf/extra/httpd-ssl.conf",
+		"/C/xamppnew/apache/conf/extra/httpd-xampp.conf",
+		"/C/xamppnew/apache/conf/httpd.conf",
+		"/C/xamppnew/htdocs/wp-jlc/js/scripts.js",
+		"/C/xamppnew/htdocs/wp-jlc/single-dog.php",
+		"/C/xamppnew/htdocs/wp-kellyvilles/wp-login.php",
+		"/C/xamppnew/htdocs/testing_5/include/admin_navigation.php",
+		"/C/xamppnew/htdocs/testing_5/dashboard.php",
+		"/C/xamppnew/htdocs/wp-robinkarlsson/wp-content/themes/graphiconten/functions.php",
+		"/C/xamppnew/htdocs/wp-robinkarlsson/wp-content/themes/graphiconten/index.php",
+		"/C/xamppnew/htdocs/wp-robinkarlsson/wp-content/themes/graphiconten/css/general.css",
+		"/C/xamppnew/htdocs/wp-eha2/index.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-admin/admin.php",
+		"/C/xamppnew/htdocs/wp-robinkarlsson/wp-content/themes/graphiconten/style.css",
+		"/C/xamppnew/htdocs/wp-eha2/css/style.css",
+		"/C/xamppnew/htdocs/wp-robinkarlsson/wp-content/themes/graphiconten/css/bootstrap.min.css",
+		"/C/Users/Robin/Downloads/bootstrap-3.3.7-dist (1)/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/C/Users/Robin/AppData/Local/Temp/fz3temp-2/woocommerce-advanced-shipping.php",
+		"/C/Users/Robin/AppData/Local/Temp/fz3temp-2/class-wc-shipping-local-pickup-plus-shop-order-cpt.php",
+		"/C/Users/Robin/AppData/Local/Temp/fz3temp-2/class-wc-dependencies.php",
+		"/C/Users/Robin/AppData/Local/Temp/fz3temp-2/woo-functions.php",
+		"/C/Users/Robin/AppData/Local/Temp/fz3temp-2/shipping-local-pickup-plus.php",
+		"/C/Users/Robin/AppData/Local/Temp/fz3temp-2/woocommerce-shipping-local-pickup-plus.php",
+		"/C/Users/Robin/AppData/Local/Temp/fz3temp-2/class-wc-shipping-local-pickup-plus.php",
+		"/C/Users/Robin/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/css/general.css",
+		"/C/Users/Robin/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/Robin/Documents/Hemsidor/PHP script/nyhet/nyhet/data/nyhet_edit.php",
+		"/C/Users/Robin/Documents/Hemsidor/PHP script/nyhet/nyhet/data/nyhet_form.htm",
+		"/C/Users/Robin/Documents/Hemsidor/PHP script/nyhet/nyhet/nyhet2.php",
+		"/C/xamppnew/htdocs/wp-robinkarlsson/wp-content/themes/twentysixteen/style.css",
+		"/C/Users/Robin/Documents/Hemsidor/PHP script/nyhet/nyhet/nyhet.php",
+		"/C/xamppnew/htdocs/wp-robinkarlsson/wp-content/themes/twentyfifteen/content.php",
+		"/C/xamppnew/htdocs/wp-robinkarlsson/wordpress/wp-activate.php",
+		"/C/xamppnew/htdocs/wp-eha2/css/bootstrap.css",
+		"/C/xamppnew/htdocs/wp-eha2/css/bootstrap.min.css",
+		"/C/Users/Robin/AppData/Local/Temp/Rar$DIa0.506/style.css",
+		"/C/xamppnew/htdocs/millhouse-drive-19/admin/admin_dash.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-login.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/inc/custom-meta-box.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/template-parts/content-camp.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/template-parts/content-archive.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/template-parts/content.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/plugins/easy-paypal-events-tickets/includes/public_shortcode.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/payment.html",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/plugins/gd-payment-info/gd-instructor-info.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/plugins/gd-instructor-info/gd-instructor-info.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/single.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/plugins/easy-paypal-events-tickets/easy-paypal-events-tickets.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/fonts/Pop Warner.ttf",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/functions.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/event-past-date-2.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/css/jquery-ui-1.10.4.custom.min.css",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/taxonomy",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/single-camp.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/page-contact.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/footer.php",
+		"/C/Users/Robin/Downloads/contact-form/contact-form/page-contact-us.php",
+		"/C/Users/Robin/Downloads/contact-form/contact-form/style.css",
+		"/C/Users/Robin/Downloads/CSSReset.com - Keeping Footer At The Bottom Of The Page (1)/CSSReset.com - Keeping Footer At The Bottom Of The Page/style.css",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/js/script.js",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/getagefrombirthday.php",
+		"/C/xamppnew/htdocs/wp-kellyvilles/wp-content/themes/graphiconfive/template-parts/content-dog.php",
+		"/C/xamppnew/htdocs/wp-kellyvilles/wp-content/themes/graphiconfive/index.php",
+		"/C/xamppnew/htdocs/wp-kellyvilles/wp-content/themes/graphiconfive/single-dog.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/archive-camp.php",
+		"/C/xamppnew/htdocs/wp-kellyvilles/wp-content/themes/graphiconfive/archive-dog.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/camps.php",
+		"/C/xamppnew/htdocs/wp-kellyvilles/wp-content/themes/graphiconfive/single.php",
+		"/C/xamppnew/htdocs/wp-kellyvilles/wp-content/themes/graphiconfive/functions.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/page-templates/content-camp.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/page.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/page-templates/content-archive.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/single-camps.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/page-templates/content.php",
+		"/C/xamppnew/htdocs/wp-jamielynns/wp-activate.php",
+		"/C/xamppnew/htdocs/millhouse-drive-19/index.php",
+		"/C/xampp/htdocs/millhouse/testing_5/admin_login.php",
+		"/C/xampp/htdocs/millhouse-bitbucket/admin/dashboard.php",
+		"/C/xampp/htdocs/millhouse-drive-19/admin/dashboard.php",
+		"/C/xampp/htdocs/millhouse-drive-19/index.php",
+		"/C/xampp/htdocs/sthlmcontemporarydesigns/wordpress/wp-admin/admin.php",
+		"/C/xamppnew/htdocs/wp-kellyvilles/wp-content/themes/graphiconfive/css/general.css",
+		"/C/xamppnew/htdocs/magento-test/app/code/Robin/Modultest/etc/registration.php",
+		"/C/xamppnew/htdocs/magento-test/var/report/1382153379",
+		"/C/xamppnew/htdocs/magento-test/vendor/magento/module-theme/view/frontend/layout/default_head_blocks.xml",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/sidebar.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/header.php",
+		"/C/xamppnew/htdocs/magento-test/vendor/magento/magento2-base/dev/tests/integration/testsuite/Magento/Framework/View/_files/layout_with_exceptions/layout.xml",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/elitehockeyagility/style.css",
+		"/C/xamppnew/htdocs/wp-eha/wp-activate.php",
+		"/C/xamppnew/htdocs/wp-eha/wp-content/themes/graphicontwo/index.php",
+		"/C/Users/Robin/Documents/Hemsidor/projektarbete/images/city-buildings-church-scandinavia.jpg",
+		"/C/Users/Robin/Documents/Hemsidor/projektarbete/case.html",
+		"/C/xamppnew/htdocs/wp-kellyvilles/wp-content/themes/graphiconfive/template-parts/content-post.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"open",
+			"content",
+			";\n",
+			"nav",
+			"!important",
+			"html",
+			"margin-top",
+			"*/",
+			"locations",
+			"variation",
+			"location",
+			"pickup location",
+			"container",
+			"section",
+			"carousel",
+			"container",
+			"navbar",
+			"carousel",
+			"caros",
+			"slide",
+			"carousel slide",
+			"carousel",
+			"carousel-example",
+			"navbar-default",
+			"navbar",
+			"margin-top",
+			"padding",
+			"container-fluid",
+			"500",
+			"550",
+			"...\n",
+			"date",
+			"elitehockeyagility_register_my_menus",
+			"nav",
+			"entry-sidebar",
+			"respond",
+			"_POST",
+			"$_POST",
+			"POST",
+			"sortable_columns",
+			"h2",
+			"%",
+			"margin-bottom",
+			"margin-top",
+			"p",
+			"%; ",
+			"container",
+			"content-camp",
+			"pp_te",
+			"br",
+			"side",
+			"sidebar",
+			"padding",
+			"container",
+			"strtoupper",
+			"datepicker",
+			"				<",
+			"footer",
+			"col",
+			"width",
+			"row",
+			"password",
+			"robin",
+			"content",
+			"DDD",
+			" ?>",
+			"h1",
+			"content.image",
+			"store",
+			"food",
+			"hot",
+			"username",
+			"content",
+			"template",
+			"container",
+			"blog-post-t",
+			"crew",
+			"blog-post-t",
+			"8px",
+			"footer-img",
+			"footer",
+			"section-6",
+			"crew-mem",
+			"case",
+			"#case",
+			".presentation",
+			"blog",
+			"presentation",
+			"practice",
+			"section-",
+			"contact",
+			"section-5",
+			"section",
+			"footer",
+			"footer-content",
+			"footer",
+			"contact",
+			"sans",
+			"span",
+			"blog",
+			"section-4",
+			"section",
+			"content",
+			"\n		",
+			"#blog",
+			"bg-2",
+			"mobile",
+			"hidden",
+			"right",
+			"hidden-logo",
+			"header",
+			"width",
+			">\n",
+			"jpg",
+			"<div class=\"col-6\"></div>",
+			">\n",
+			"d",
+			"STHLM",
+			"php",
+			".\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"550"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lagetsecup.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
